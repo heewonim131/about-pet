@@ -32,7 +32,7 @@
 구현 기능은 회원가입, 로그인, 마이페이지 입니다.
 
 ### 4.1. 전체 흐름
-![image](https://user-images.githubusercontent.com/92259017/159844151-9755ba4c-3058-4f1a-b808-49958a2220a6.png)
+![image](https://user-images.githubusercontent.com/92259017/165451389-aaf88004-c69c-467c-9d74-cd1a017b393d.png)
   
 ### 4.2. 사용자 요청
 ![image](https://user-images.githubusercontent.com/92259017/159844196-6b660383-8758-4458-922e-285627fb268b.png)
